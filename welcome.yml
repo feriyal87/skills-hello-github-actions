@@ -5,5 +5,4 @@ on:
 permissions:
   pull-requests: write
 
-
-  
+# Step 1
